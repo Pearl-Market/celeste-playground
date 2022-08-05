@@ -3,7 +3,9 @@ A tool for collaborative designs.
 
 ## Concept
 Type designers: sell fonts they created on PEARL, on chain using zora
+
 Graphic designers: discover and buy fonts on chain to use in their design or template design
+
 Type designers: get revenus from the fonts licence sale, and a fee from the templates sales.
 
 ## PROTO
